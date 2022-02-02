@@ -1,4 +1,4 @@
-export interface Customer {
+interface Customer {
     name: string;
     orders: number;
     credible: boolean;
